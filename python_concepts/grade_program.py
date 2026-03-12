@@ -1,0 +1,12 @@
+# Program to accept percentage and display grade
+
+per = float(input("Enter percentage: "))
+
+if per > 90:
+    print("Grade: A")
+elif per > 80:
+    print("Grade: B")
+elif per >= 60:
+    print("Grade: C")
+else:
+    print("Fail")
