@@ -94,9 +94,7 @@ python filename.py
 
 ---
 
-## 💡 Motivation
-
-⚡ *"Practice daily, improve gradually, and master Python step by step."*
+## Author : Charul Bhanarkar
 
 ---
 
