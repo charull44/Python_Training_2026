@@ -90,7 +90,7 @@ python filename.py
 ## 🌐 Connect With Me
 
 * 💻 GitHub: https://github.com/charull44
-* 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/charul-bhanarkar-205172358/)
+* 💼 LinkedIn: https://www.linkedin.com/in/charul-bhanarkar-205172358/
 
 ---
 
