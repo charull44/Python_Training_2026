@@ -100,5 +100,4 @@ python filename.py
 
 <p align="center">
   ⭐ If you like this repository, don’t forget to star it!
-  Author: Charul Bhanarkar
 </p>
