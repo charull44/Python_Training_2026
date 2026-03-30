@@ -94,10 +94,10 @@ python filename.py
 
 ---
 
-## Author : Charul Bhanarkar
-
----
-
 <p align="center">
   ⭐ If you like this repository, don’t forget to star it!
 </p>
+
+---
+
+## Author : Charul Bhanarkar
